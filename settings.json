@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Ikeepserveron",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "Phase26.aternos.me",
+    "port": 48006,
     "version": "1.21.1"
   },
   "position": {
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I keep on server",
+        "Subscribe to Nothing",
         "I like to play Minecraft!"
       ]
     },
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.com/api/webhooks/1488065487173849262/SLUEd2TBuNUo_oH7pOEF-RPbIxDn6VyLPmzOMVIBiycBndOLO8oRMic8VHTvZBW8hQSi",
     "events": {
       "connect": true,
       "disconnect": true,

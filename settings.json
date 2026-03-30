@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "168.119.78.155:27355",
+    "ip": "phasenew.falixsrv.me:27355",
     "port": 27355,
     "version": "1.21.1"
   },

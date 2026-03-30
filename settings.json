@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Phase26.aternos.me",
+    "ip": "Phase26.aternos.me:48006",
     "port": 48006,
     "version": "1.21.1"
   },
